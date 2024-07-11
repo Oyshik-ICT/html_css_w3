@@ -3,7 +3,7 @@
 
 This project is a responsive portfolio webpage designed to showcase my web development skills. It features a clean, modern design that adapts seamlessly to various screen sizes, from mobile devices to large desktop monitors.
 
-As I am new in development this project helps a lot to learn new thing
+As I am new in development this project helps a lot to learn new things.
 
 ## Technologies Used
 - HTML
